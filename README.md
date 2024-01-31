@@ -10,7 +10,7 @@ Este repositório contém os detalhes do meu Trabalho de Conclusão de Curso (TC
 - [x] Validação do modelo conceitual.
 - [x] Desenvolvimento de telas no Figma.
       
-### Ajustes e melhorias
+## Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento, agora em nova fase, e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -19,6 +19,6 @@ O projeto ainda está em desenvolvimento, agora em nova fase, e as próximas atu
 - [ ] Implementação do código.
 - [ ] Validar o sistema e o modelo conceitual em situações do mundo real.
 
-#### Como contribuir
+## Como contribuir
 
 Se você tem conhecimento na área ou experiência com interfaces adaptáveis, sua contribuição é valiosa. Sinta-se à vontade para contribuir com sugestões, correções ou novas ideias. 
